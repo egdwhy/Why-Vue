@@ -38,6 +38,8 @@ nbdist/
 
 ######################################################################
 # Others
+.env
+.DS_Store
 *.log
 *.xml.versionsBackup
 *.swp
